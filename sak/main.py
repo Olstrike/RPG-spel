@@ -1,5 +1,5 @@
-import resources
-from resources import Character, Goblin
+import recources
+from recources import Character, Goblin
 from random import randint
 
 if __name__ == "__main__":
